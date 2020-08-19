@@ -1,0 +1,14 @@
+#!/bin/sh
+echo Dear $GIT_AUTHOR_NAME
+echo 
+echo We are teribly sorry to inform you that 
+echo Rebase is disabled in thi Repository!
+echo Disatisfaction shall be directed to the Boss
+echo
+echo Regards,
+echo
+echo
+echo Script Maker
+echo
+
+exit 1
